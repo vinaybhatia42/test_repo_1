@@ -5,7 +5,7 @@
     "keywords": ["keyword-1","keyword-2"],
     "homepage": "https://github.com/",
     "license": "MIT",
-    "minimum-stability": "dev",
+    
     "authors": [
         {
             "name": "Vinay Bhatia",
@@ -17,6 +17,7 @@
     "require": {
         "php": ">=7.4.0"
     },
+    "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
             "App\\": "app/"
